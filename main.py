@@ -11,7 +11,7 @@ def loading(msg, t, finish):
     print("|" * i + "-" * f)
     print()
     i = i + 1
-  print(finish)
+  print(finish) #aaaaa
 
 def boot():
   loading('Loading DogeOS...', 0.03, 'DogeOS v0.1 Loaded!')
